@@ -1,2 +1,2 @@
-# Azure-Api-Factory-Workshop
-Azure-Api-Factory-Workshop
+# ApiFactory-Azure-Exercise
+Azure Exercise for Api Factory team
